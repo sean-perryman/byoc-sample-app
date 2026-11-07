@@ -1,0 +1,13 @@
+{
+  "name": "byoc-sample-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Railpack-built application for BYOC-PaaS smoke tests.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
